@@ -1,0 +1,30 @@
+{
+  "name": "ipld-http-block-store",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mikeal Rogers <mikeal.rogers@gmail.com> (https://www.mikealrogers.com/)",
+  "license": "(Apache-2.0 AND MIT)",
+  "devDependencies": {
+    "@ipld/stack": "^1.2.3",
+    "tap": "^12.6.2"
+  },
+  "dependencies": {
+    "bent": "^1.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeal/ipld-http-block-store.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mikeal/ipld-http-block-store/issues"
+  },
+  "homepage": "https://github.com/mikeal/ipld-http-block-store#readme",
+  "description": ""
+}
